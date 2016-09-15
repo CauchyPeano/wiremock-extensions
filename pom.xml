@@ -10,4 +10,14 @@
     <name>Wiremock Extensions</name>
     <description>Wiremock extensions to support most of the needs.</description>
 
+
+    <dependencies>
+        <dependency>
+            <groupId>com.github.tomakehurst</groupId>
+            <artifactId>wiremock</artifactId>
+            <version>2.1.12</version>
+        </dependency>
+    </dependencies>
+
+
 </project>
